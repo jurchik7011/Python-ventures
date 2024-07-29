@@ -1,1 +1,1 @@
-# papapo
+# Python-ventures-drafts-trainings
